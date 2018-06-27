@@ -24,7 +24,7 @@
         android:layout_marginStart="0dp" />
 
     <EditText
-        android:id="@+id/etNewItem"
+        android:id="@+id/etItemText"
         android:layout_width="296dp"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
